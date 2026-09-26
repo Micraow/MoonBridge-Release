@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✈️ StuHelper
+# ✈️ MoonBridge
 
 **北航同学的 AI 网关桌面助手 —— 一键接入 Claude Code / Codex 等 AI 编程工具**
 
@@ -37,6 +37,7 @@
 | 🍎 **macOS（M 系列芯片）** | `StuHelper-v*-macos-arm64.dmg` | 拖进「应用程序」→ 首次打不开就到「设置 → 隐私与安全性」点「仍要打开」 |
 | 🐧 **Linux（简单）** | `StuHelper-v*-linux.AppImage` | `chmod +x` 后双击/命令行运行 |
 | 🐧 **Linux（deb 系）** | `StuHelper-v*-linux.deb` | `sudo dpkg -i StuHelper-v*-linux.deb` |
+| 🐧 **Linux（裸二进制）** | `StuHelper-v*-linux-amd64` | `chmod +x StuHelper-v*-linux-amd64` 后 `./StuHelper-v*-linux-amd64` 直接运行，免安装 |
 | 🏔️ **Arch Linux** | 已上架 [AUR](https://aur.archlinux.org/packages/stuhelper-bin) | `yay -S stuhelper-bin`（或 `paru -S stuhelper-bin`）→ 自动跟随更新 |
 
 ## 🚀 三分钟上手
@@ -62,7 +63,7 @@
 ## ❤️ 相关链接
 
 - 🌐 作者的博客：[pengs.top](https://pengs.top)
-- 🤖 同门平台：[NewAPI](https://newapi.stuhelper.com)
+- 🤖 同门平台：[StuHelper AI](https://newapi.stuhelper.com)
 - ⭐ 觉得好用就点个 Star 呗
 
 <div align="center">
