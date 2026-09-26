@@ -14,6 +14,18 @@
 
 ---
 
+## 📸 界面预览
+
+<p align="center">
+  <img src="docs/screenshots/dashboard.png" alt="仪表盘：账号状态、网关状态、积分用量一目了然" width="760" />
+</p>
+
+| 🔑 统一身份认证登录 | 🔌 客户端一键接入 | 🎨 Playground 生图 |
+| :---: | :---: | :---: |
+| ![登录](docs/screenshots/login.png) | ![客户端接入](docs/screenshots/clients.png) | ![Playground](docs/screenshots/playground.png) |
+| **📊 用量统计** | **🧠 模型卡片** | **📖 内置 API 文档** |
+| ![用量统计](docs/screenshots/usage.png) | ![模型](docs/screenshots/models.png) | ![API 文档](docs/screenshots/apidocs.png) |
+
 ## 📥 下载安装
 
 到 👉 [**Releases 页面**](https://github.com/Micraow/MoonBridge-Release/releases/latest) 下载对应你系统的安装包：
