@@ -7,9 +7,9 @@
 [![最新版本](https://img.shields.io/github/v/release/Micraow/MoonBridge-Release?display_name=tag&style=flat-square&color=6366f1)](https://github.com/Micraow/MoonBridge-Release/releases/latest)
 ![平台](https://img.shields.io/badge/平台-Windows%20%7C%20macOS%20%7C%20Linux-22c55e?style=flat-square)
 ![版本线](https://img.shields.io/badge/版本线-公开版-f59e0b?style=flat-square)
-[![AUR](https://img.shields.io/aur/version/stuhelper-bin?label=AUR&style=flat-square&color=1793d1)](https://aur.archlinux.org/packages/stuhelper-bin)
+[![AUR](https://img.shields.io/aur/version/moonbridge-gui-bin?label=AUR&style=flat-square&color=1793d1)](https://aur.archlinux.org/packages/moonbridge-gui-bin)
 
-> ⚠️ 本仓库**只提供安装包下载**，没有源代码（产品需要）。遇到问题到文末看排查或找作者。
+> 本仓库只提供安装包下载。遇到问题到文末看排查或找作者。
 
 </div>
 
@@ -38,7 +38,7 @@
 | 🐧 **Linux（简单）** | `StuHelper-v*-linux.AppImage` | `chmod +x` 后双击/命令行运行 |
 | 🐧 **Linux（deb 系）** | `StuHelper-v*-linux.deb` | `sudo dpkg -i StuHelper-v*-linux.deb` |
 | 🐧 **Linux（裸二进制）** | `StuHelper-v*-linux-amd64` | `chmod +x StuHelper-v*-linux-amd64` 后 `./StuHelper-v*-linux-amd64` 直接运行，免安装 |
-| 🏔️ **Arch Linux** | 已上架 [AUR](https://aur.archlinux.org/packages/stuhelper-bin) | `yay -S stuhelper-bin`（或 `paru -S stuhelper-bin`）→ 自动跟随更新 |
+| 🏔️ **Arch Linux** | 已上架 [AUR](https://aur.archlinux.org/packages/moonbridge-gui-bin) | `yay -S moonbridge-gui-bin`（或 `paru -S moonbridge-gui-bin`）→ 自动跟随更新 |
 
 ## 🚀 三分钟上手
 
