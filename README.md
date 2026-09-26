@@ -7,6 +7,7 @@
 [![最新版本](https://img.shields.io/github/v/release/Micraow/MoonBridge-Release?display_name=tag&style=flat-square&color=6366f1)](https://github.com/Micraow/MoonBridge-Release/releases/latest)
 ![平台](https://img.shields.io/badge/平台-Windows%20%7C%20macOS%20%7C%20Linux-22c55e?style=flat-square)
 ![版本线](https://img.shields.io/badge/版本线-公开版-f59e0b?style=flat-square)
+[![AUR](https://img.shields.io/aur/version/stuhelper-bin?label=AUR&style=flat-square&color=1793d1)](https://aur.archlinux.org/packages/stuhelper-bin)
 
 > ⚠️ 本仓库**只提供安装包下载**，没有源代码（产品需要）。遇到问题到文末看排查或找作者。
 
@@ -36,6 +37,7 @@
 | 🍎 **macOS（M 系列芯片）** | `StuHelper-v*-macos-arm64.dmg` | 拖进「应用程序」→ 首次打不开就到「设置 → 隐私与安全性」点「仍要打开」 |
 | 🐧 **Linux（简单）** | `StuHelper-v*-linux.AppImage` | `chmod +x` 后双击/命令行运行 |
 | 🐧 **Linux（deb 系）** | `StuHelper-v*-linux.deb` | `sudo dpkg -i StuHelper-v*-linux.deb` |
+| 🏔️ **Arch Linux** | 已上架 [AUR](https://aur.archlinux.org/packages/stuhelper-bin) | `yay -S stuhelper-bin`（或 `paru -S stuhelper-bin`）→ 自动跟随更新 |
 
 ## 🚀 三分钟上手
 
